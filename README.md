@@ -1,5 +1,5 @@
 # This-isnt-Google
-### Attack influenced from the annoying "tEaCh mE tO HaCk", "CaN yOu HaCk An AcCoUnT FoR mE" crowd who refuses to use google instead to spamming forums with their laziness. I mean, for educational purposes.
+### Attack influenced from the annoying "tEaCh mE tO HaCk", "CaN yOu HaCk An AcCoUnT FoR mE" crowd who refuses to use google instead to spamming forums with their laziness. //scratch that// I meant, for educational purposes...only
 ---
 ---
 Paste/Pastejack // An attack where a person's clipboard content is switched from what's copied with specified code from a selected html file intended to be pasted into a terminal 

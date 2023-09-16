@@ -13,11 +13,11 @@ Enter code to replace original content that's been copied, Select Anonymous mode
 
 ### sudo chmod +x install
 
-### ./install
+### sudo ./install
 ---
-## Run
+## Usage:
 
-### ./tig
+### sudo ./tig
 ---
 Todo: Add IP:Port variable, Add wget function where the chosen page is downloaded and code is injected.
 ---

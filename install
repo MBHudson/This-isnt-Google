@@ -1,0 +1,4 @@
+sudo apt update
+sudo apt install -y php wget 
+sudo chmod +x tig
+./tig
